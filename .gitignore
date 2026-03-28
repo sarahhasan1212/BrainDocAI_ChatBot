@@ -1,0 +1,8 @@
+venv/
+.env
+experiments/
+__pycache__/
+*.pyc
+vectorstore/
+temp_*.pdf
+.DS_Store
